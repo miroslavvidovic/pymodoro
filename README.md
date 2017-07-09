@@ -1,0 +1,2 @@
+# pymodoro
+Pyhton pomodoro app
